@@ -1,0 +1,4 @@
+﻿  udpConsoleClient.cpp
+c:\users\think\documents\visual studio 2015\projects\udpconsoleclient\udpconsoleclient\udpconsoleclient.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+  udpConsoleClient.vcxproj -> c:\users\think\documents\visual studio 2015\Projects\udpConsoleClient\Debug\udpConsoleClient.exe
+  udpConsoleClient.vcxproj -> c:\users\think\documents\visual studio 2015\Projects\udpConsoleClient\Debug\udpConsoleClient.pdb (Full PDB)
